@@ -1,0 +1,12 @@
+{
+  "name": "tilehub.standard",
+  "version": "1.0.0",
+  "description": "The tilehub code standard",
+  "main": "",
+  "scripts": {},
+  "author": "Kevin Waldock",
+  "license": "ISC",
+  "dependencies": {
+    "standard": "2.0.4"
+  }
+}

@@ -1,6 +1,7 @@
 {
   "extends": ["standard", "standard-jsx"],
   "rules": {
-    "indent": ["error", 4, { "SwitchCase": 2 }]
+    "indent": ["error", 4, { "SwitchCase": 2 }],
+    "space-before-function-paren": ["error", "always"]
   }
 }
